@@ -2,7 +2,7 @@
 
 
 # CheckList:
-- [ ] Código deve ser comentado
+- [X] Código deve ser comentado
 - [ ] O tipo de retorno e funcionalidade das funções devem ser descritas
 - [ ] Caso exista alguma lógica complexa, deve ser explicada
 - [ ] Precisa de uma documentação em um arquivo README.md
